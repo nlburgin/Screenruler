@@ -1,0 +1,225 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-08-18 00:31-0700\n"
+"PO-Revision-Date: 2011-08-18 00:31-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ruler_window.rb:39
+msgid "in"
+msgstr ""
+
+#: ruler_window.rb:40
+msgid "cm"
+msgstr ""
+
+#: ruler_window.rb:41
+msgid "pc"
+msgstr ""
+
+#: ruler_window.rb:42
+msgid "pt"
+msgstr ""
+
+#: ruler_window.rb:43
+msgid "px"
+msgstr ""
+
+#: ruler_window.rb:44
+msgid "%"
+msgstr ""
+
+#: screenruler.rb:35 screenruler.glade:987
+msgid "Screen Ruler"
+msgstr ""
+
+#: screenruler.rb:47
+msgid "Loading libraries..."
+msgstr ""
+
+#: screenruler.rb:59
+msgid "Connecting to GConf..."
+msgstr ""
+
+#: screenruler.rb:63
+msgid "Creating windows..."
+msgstr ""
+
+#: screenruler.rb:69
+msgid "Reading settings..."
+msgstr ""
+
+#: screenruler.rb:74
+msgid "Presenting ruler..."
+msgstr ""
+
+#: screenruler.rb:80
+msgid "Shutting down..."
+msgstr ""
+
+#: screenruler.glade:7
+msgid "Screen Ruler Help"
+msgstr ""
+
+#: screenruler.glade:44
+msgid "<big><b>Keyboard Tips</b></big>"
+msgstr ""
+
+#: screenruler.glade:61
+msgid "<b><i>Arrow Keys</i></b> move the ruler by 1 pixel."
+msgstr ""
+
+#: screenruler.glade:80
+msgid "<b><i>Alt + Arrow Keys</i></b> resize the ruler."
+msgstr ""
+
+#: screenruler.glade:99
+msgid "Hold <b><i>Shift</i></b> to move or resize faster."
+msgstr ""
+
+#: screenruler.glade:118
+msgid "<b><i>1</i></b>, <b><i>2</i></b>, <b><i>3</i></b>, <b><i>4</i></b>, <b><i>5</i></b>, and <b><i>6</i></b> keys set ruler metric."
+msgstr ""
+
+#: screenruler.glade:137
+msgid "<b><i>Enter</i></b> key to see menu."
+msgstr ""
+
+#: screenruler.glade:164
+msgid "<big><b>Mouse Tips</b></big>"
+msgstr ""
+
+#: screenruler.glade:181
+msgid "<b><i>Drag</i></b> the ruler around your screen."
+msgstr ""
+
+#: screenruler.glade:200
+msgid "<b><i>Drag</i></b> ruler ends to resize the ruler."
+msgstr ""
+
+#: screenruler.glade:219
+msgid "<b><i>Left-Click</i></b> on menu button to see menu."
+msgstr ""
+
+#: screenruler.glade:238
+msgid "<b><i>Right-Click</i></b> to see menu."
+msgstr ""
+
+#: screenruler.glade:257
+msgid "<b><i>Double-Click</i></b> to see Settings window."
+msgstr ""
+
+#: screenruler.glade:276
+msgid "<b><i>Middle-Click</i></b> to rotate the ruler."
+msgstr ""
+
+#: screenruler.glade:372
+msgid "Settings"
+msgstr ""
+
+#: screenruler.glade:416
+msgid "Background Color"
+msgstr ""
+
+#: screenruler.glade:434
+msgid "Ticks and Numbers Color"
+msgstr ""
+
+#: screenruler.glade:454
+msgid "_Font:"
+msgstr ""
+
+#: screenruler.glade:492
+msgid "_Numbers and lines:"
+msgstr ""
+
+#: screenruler.glade:505
+msgid "_Background:"
+msgstr ""
+
+#: screenruler.glade:523
+msgid "<b>Appearance</b>"
+msgstr ""
+
+#: screenruler.glade:574
+msgid "_System Settings"
+msgstr ""
+
+#: screenruler.glade:607
+msgid "_Custom Settings"
+msgstr ""
+
+#: screenruler.glade:690
+msgid "_Horizontal pixels per inch:"
+msgstr ""
+
+#: screenruler.glade:703
+msgid "_Vertical pixels per inch:"
+msgstr ""
+
+#: screenruler.glade:735
+msgid "<b>Screen Pixels per Inch</b>"
+msgstr ""
+
+#: screenruler.glade:802
+msgid "_Settings"
+msgstr ""
+
+#: screenruler.glade:830
+msgid "On _Top"
+msgstr ""
+
+#: screenruler.glade:840
+msgid "Track _Mouse"
+msgstr ""
+
+#: screenruler.glade:856
+msgid "_Rotate"
+msgstr ""
+
+#: screenruler.glade:872
+msgid "_1. Pixels"
+msgstr ""
+
+#: screenruler.glade:882
+msgid "_2. Centimeters"
+msgstr ""
+
+#: screenruler.glade:893
+msgid "_3. Inches"
+msgstr ""
+
+#: screenruler.glade:904
+msgid "_4. Picas"
+msgstr ""
+
+#: screenruler.glade:915
+msgid "_5. Points"
+msgstr ""
+
+#: screenruler.glade:926
+msgid "_6. Percentage"
+msgstr ""
+
+#: screenruler.glade:943
+msgid "_Help"
+msgstr ""
+
+#: screenruler.glade:953
+msgid "_About"
+msgstr ""
+
+#: screenruler.glade:966
+msgid "_Quit"
+msgstr ""
